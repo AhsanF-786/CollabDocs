@@ -1,0 +1,2 @@
+"""CollabDocs API application."""
+
