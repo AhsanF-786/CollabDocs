@@ -24,12 +24,11 @@ There are no passwords. Use the clearly labeled demo user switcher:
 
 ## URLs
 
-- Live product: `TO_BE_ADDED_AFTER_DEPLOYMENT`
-- API documentation: `TO_BE_ADDED_AFTER_DEPLOYMENT/docs`
+- Live product: https://collabdocs-ahsanf-786.vercel.app
+- API documentation: https://collabdocs-api-tqxd.onrender.com/docs
 - Walkthrough video: see `WALKTHROUGH_URL.txt`
 
 ## Status
 
-Core functionality is implemented. Deployment URLs and the recorded walkthrough must be
-added after hosting accounts are connected.
-
+Core functionality is implemented and deployed. The recorded walkthrough remains to be
+added to `WALKTHROUGH_URL.txt`.

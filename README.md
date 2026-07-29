@@ -7,6 +7,12 @@ autosave, text and Markdown import, and owner-controlled sharing between seeded 
 The project intentionally delivers a coherent product slice rather than attempting to
 recreate all of Google Docs.
 
+## Live deployment
+
+- Product: https://collabdocs-ahsanf-786.vercel.app
+- API documentation: https://collabdocs-api-tqxd.onrender.com/docs
+- API health: https://collabdocs-api-tqxd.onrender.com/health
+
 ## What works
 
 - Create, rename, edit, delete, save, and reopen documents
