@@ -1,10 +1,7 @@
-Walkthrough video URL: TO_BE_ADDED_AFTER_RECORDING
+Walkthrough video URL: https://drive.google.com/file/d/15RlL1TMHfiNy6HM0YfhK2LeGL1X2Uc7c/view?usp=sharing
 
-Suggested 3-5 minute flow:
-1. Explain the intentionally focused product scope.
+Suggested 1-2 minute flow:
 2. Create and format a document as Maya.
 3. Import a Markdown file.
 4. Share a document with Jordan.
 5. Switch to Jordan and edit the shared document.
-6. Show FastAPI Swagger docs and Alembic history.
-7. Explain deferred real-time collaboration and AI-assisted workflow.
