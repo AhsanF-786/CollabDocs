@@ -10,7 +10,14 @@ services:
       - key: APP_ENV
         value: production
       - key: DATABASE_URL
-        sync: false
+        fromDatabase:
+          name: collabdocs-db
+          property: connectionString
       - key: FRONTEND_ORIGINS
         sync: false
 
+databases:
+  - name: collabdocs-db
+    plan: free
+    databaseName: collabdocs
+    user: collabdocs
