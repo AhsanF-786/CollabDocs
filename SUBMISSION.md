@@ -386,11 +386,10 @@ See `docs/AI_WORKFLOW.md` for the dedicated AI workflow note.
 - [x] Automated tests
 - [x] Deployment configuration
 - [x] Walkthrough URL text file
-- [ ] Recorded walkthrough URL added to `WALKTHROUGH_URL.txt`
-- [ ] Final Google Drive folder assembled and shared
+- [x] Recorded walkthrough URL added to `WALKTHROUGH_URL.txt`
+- [x] Final Google Drive folder assembled and shared
 
 ## Final status
 
-The scoped product is implemented, tested, documented, and deployed. The remaining
-submission tasks are recording the 3–5 minute walkthrough and placing the repository
-materials and video link in the final Google Drive folder.
+The scoped product is implemented, tested, documented, deployed, and assembled for final
+submission.
